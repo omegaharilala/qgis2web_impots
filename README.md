@@ -1,2 +1,2 @@
-# qqis2web_impots
+# qgis2web_impots
 
